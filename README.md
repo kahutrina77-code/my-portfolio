@@ -1,4 +1,4 @@
-# Alex Johnson — Developer Portfolio
+# TRINA KAHU — Developer Portfolio
 
 A sleek, dark-minimal personal portfolio built with **React + Vite**.
 
@@ -18,7 +18,7 @@ A sleek, dark-minimal personal portfolio built with **React + Vite**.
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio.git
+git clone https://github.com/kahutrina77-code/my-portfolio.git
 cd portfolio
 npm install
 npm run dev
